@@ -1,6 +1,6 @@
 # turtleMiner
 
-A program that makes Turtles make a mineshaft with optional branches.
+A program that makes Turtles mine a mineshaft with optional branches.
 
 # Features
 
